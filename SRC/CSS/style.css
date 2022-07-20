@@ -1,0 +1,26 @@
+#btn_load {
+    margin: 2rem auto;
+    display: block;
+    border: 3px;
+
+
+
+}
+
+body {
+    background: url("../IMG/hacker.png");
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.container {
+    margin-top: 25rem;
+}
