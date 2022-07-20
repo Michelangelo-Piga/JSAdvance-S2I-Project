@@ -17,6 +17,6 @@ Applicazione per democratizzare la diffusione di informazioni in ambito tech att
 
 ## Link
 
-[Clicca qui per provare l'app](https://magical-pudding-a3a02b.netlify.app/)
+[Clicca qui per provare l'app](https://majestic-jalebi-052ce9.netlify.app/)
 
 
